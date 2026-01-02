@@ -59,3 +59,7 @@ Développer des analyses basées sur SQL afin de fournir des insights détaillé
 
 * **Tendances des ventes**
 
+----
+## Flux de données 
+
+<img width="1127" height="536" alt="Image" src="https://github.com/user-attachments/assets/6f8080a3-0f0f-431b-b2e6-348fcadc34be" />
