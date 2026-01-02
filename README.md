@@ -60,7 +60,7 @@ Développer des analyses basées sur SQL afin de fournir des insights détaillé
 * **Tendances des ventes**
 
 ----
-## Flux de données 
+## Flux des données 
 
 Le **flux de données** dans cette architecture représente le chemin que suivent les données depuis les systèmes sources jusqu’aux couches finales du modèle.
 
@@ -80,4 +80,7 @@ L’intégration dans une architecture de données consiste à fusionner et harm
 
 <img width="1035" height="507" alt="Image" src="https://github.com/user-attachments/assets/c0aa12f6-2502-4fd2-ac8b-985f88ae9d43" />
 
+----
+## Schema des données
 
+<img width="1328" height="532" alt="Image" src="https://github.com/user-attachments/assets/b9138b12-e16d-4407-bfe9-0d628943df1b" />
