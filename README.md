@@ -65,3 +65,19 @@ Développer des analyses basées sur SQL afin de fournir des insights détaillé
 Le **flux de données** dans cette architecture représente le chemin que suivent les données depuis les systèmes sources jusqu’aux couches finales du modèle.
 
 <img width="1127" height="536" alt="Image" src="https://github.com/user-attachments/assets/6f8080a3-0f0f-431b-b2e6-348fcadc34be" />
+
+----
+## Intégration des données
+L’intégration dans une architecture de données consiste à fusionner et harmoniser les informations provenant de plusieurs systèmes sources afin de créer une vue unifiée et cohérente pour l’analyse.
+
+✅ **Objectif de l’intégration :**
+
+* Relier les données des deux systèmes pour obtenir une vision complète.
+
+* Enrichir les dimensions (produits et clients) avec des attributs supplémentaires provenant de l’ERP.
+
+* Préparer un modèle analytique optimisé pour le reporting et la BI.
+
+<img width="1035" height="507" alt="Image" src="https://github.com/user-attachments/assets/c0aa12f6-2502-4fd2-ac8b-985f88ae9d43" />
+
+
