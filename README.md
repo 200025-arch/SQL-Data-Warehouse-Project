@@ -29,3 +29,31 @@ Ce projet comprend :
 3.**Modélisation des données** : Développement de tables de faits et de dimensions optimisées pour les requêtes analytiques.
 
 4.**Analytique & Reporting** : Création de rapports et tableaux de bord basés sur SQL pour fournir des insights exploitables.
+
+----
+## 🚀 Prérequis du projet
+
+**Objectif**
+Développer un entrepôt de données en utilisant SQL Server afin de consolider les données de ventes, permettant la création de rapports analytiques et la prise de décisions éclairées.
+
+**Spécifications**
+**Sources de données** : Importer les données à partir de deux systèmes sources (ERP et CRM) fournis sous forme de fichiers CSV.
+
+**Qualité des données** : Nettoyer et résoudre les problèmes de qualité des données avant l’analyse.
+
+**Intégration** : Combiner les deux sources dans un modèle de données unique et convivial, conçu pour les requêtes analytiques.
+
+**Périmètre** : Se concentrer uniquement sur le jeu de données le plus récent ; l’historisation des données n’est pas requise.
+
+**Documentation** : Fournir une documentation claire du modèle de données pour soutenir à la fois les parties prenantes métier et les équipes analytiques.
+
+----
+## BI : Analytique & Reporting (Data Analysis)
+
+**Objectif**
+Développer des analyses basées sur SQL afin de fournir des insights détaillés sur :
+
+Comportement des clients
+Performance des produits
+Tendances des ventes
+
