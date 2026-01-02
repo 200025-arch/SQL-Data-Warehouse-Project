@@ -53,9 +53,9 @@ Développer un entrepôt de données en utilisant SQL Server afin de consolider 
 **Objectif**
 Développer des analyses basées sur SQL afin de fournir des insights détaillés sur :
 
-* Comportement des clients
+* **Comportement des clients**
 
-* Performance des produits
+* **Performance des produits**
 
-* Tendances des ventes
+* **Tendances des ventes**
 
