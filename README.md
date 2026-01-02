@@ -16,3 +16,16 @@ L’architecture des données de ce projet suit le modèle Medallion avec les co
 2.**Couche Silver** : Cette couche inclut les processus de nettoyage, de standardisation et de normalisation des données afin de les préparer pour l’analyse.
 
 3.**Couche Gold** : Contient les données prêtes pour l’entreprise, modélisées sous forme de schéma en étoile, nécessaires pour les rapports et l’analytique.
+
+----
+📖 **Aperçu du projet**
+
+Ce projet comprend :
+
+1.**Architecture des données** : Conception d’un entrepôt de données moderne en utilisant l’architecture Medallion avec les couches Bronze, Silver et Gold.
+
+2.**Pipelines ETL** : Extraction, transformation et chargement des données depuis les systèmes sources vers l’entrepôt.
+
+3.**Modélisation des données** : Développement de tables de faits et de dimensions optimisées pour les requêtes analytiques.
+
+4.**Analytique & Reporting** : Création de rapports et tableaux de bord basés sur SQL pour fournir des insights exploitables.
